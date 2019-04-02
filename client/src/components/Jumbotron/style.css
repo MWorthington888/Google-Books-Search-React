@@ -1,0 +1,7 @@
+.jumbotron {
+  min-height: 300px;
+  padding-top: 100px;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  text-shadow: 3px 3px 6px black;
+}
